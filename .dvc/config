@@ -1,0 +1,6 @@
+[core]
+    remote = remote-data
+['remote "remote-data"']
+    url = gdrive://1l2R-blUfZYOBE32s1nkU0qihv6_z18gz
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = ../token/file-token-test-data1.json
